@@ -1,0 +1,22 @@
+# === SECRETS — Never commit these ===
+.env
+*.env
+.env.local
+
+# === Python cache — Not needed in version control ===
+__pycache__/
+*.py[cod]
+*.pyo
+
+# === Jupyter checkpoints — Auto-generated, not needed ===
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# === Virtual environments — Rebuild from requirements.txt instead ===
+venv/
+.venv/
+env/
+
+# === OS junk ===
+.DS_Store
+Thumbs.db

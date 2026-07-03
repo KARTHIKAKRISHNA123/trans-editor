@@ -1,0 +1,8 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "migrate.java.formulaEditor": true,
+        "jupyter-notebook": true,
+        "mainThreadWebview-markdown.preview": true
+    }
+}

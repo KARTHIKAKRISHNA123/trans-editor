@@ -1,0 +1,17 @@
+# TransEditor — requirements.txt
+# Install with: uv pip install -r requirements.txt
+
+# LiteLLM: universal LLM API client
+# Handles Gemini, Groq, OpenRouter with identical .completion() calls
+litellm>=1.0.0
+
+# python-dotenv: reads .env file into os.environ
+python-dotenv==1.0.1
+
+# python-docx: read and write .docx files
+# Gives us Document, Paragraph, Run, Table objects
+python-docx>=1.1.0
+
+# Notebook
+ipykernel==6.29.5
+jupyter==1.1.1
