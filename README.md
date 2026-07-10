@@ -20,7 +20,7 @@ For Ailaysa's English→Tamil translation workflows, this is a real bottleneck: 
 
 There's a second, subtler problem: single-model translation has no self-check. A single LLM call can produce a fluent-sounding but semantically wrong Tamil sentence, and nothing in a simple pipeline would catch it.
 
-## 💡 Solution Overview
+## Solution Overview
 
 TransEditor is a Python pipeline that:
 
