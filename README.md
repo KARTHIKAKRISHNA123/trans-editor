@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-1.x-orange)
 ![python--docx](https://img.shields.io/badge/python--docx-1.1%2B-green)
-![Status](https://img.shields.io/badge/status-internal--tool-lightgrey)
 
 ---
 
